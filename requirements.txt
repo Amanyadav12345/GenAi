@@ -1,0 +1,17 @@
+# PDF and text/image handling
+PyMuPDF==1.23.22
+pillow==10.3.0
+
+# Data handling
+pandas==2.2.2
+numpy==1.26.4
+
+# Transformers and Torch for CLIP
+transformers==4.41.1
+torch==2.3.0
+
+# For similarity search
+scikit-learn==1.4.2
+
+# Web app UI
+streamlit==1.35.0
